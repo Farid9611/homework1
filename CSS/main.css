@@ -1,0 +1,123 @@
+body{
+    margin:0;
+}
+  }
+
+  .h1{
+    border-bottom: 50px solid yellow
+  }
+  .header{
+      text-align:right;
+      align-items:flex-start;
+      padding-top: 10px;
+      padding-bottom:65px;
+  }
+  
+  a {
+    color:white;
+    text-decoration: none;
+    padding-left:20px;
+    padding-right:20px;
+  }
+  
+  .banner{
+    text-align:center;
+    font-size:large;
+  }
+  
+  div {
+    padding-top:20px;
+    padding-bottom:20px;
+  }
+  
+  div h2{
+    text-align:left;
+  }
+
+  .h2 div p{
+    text-align:right;
+  }
+  
+  }
+
+  }
+  div{
+    float:right;
+    
+  }
+  
+  .bg-image{
+    outline: 1px solid grey;
+    padding: 13em;
+    background-image:url(/img/Image1.jpg);
+    background-size: cover;
+    margin-top:10px;
+    margin-bottom:10px;
+    background-attachment: fixed;
+    
+  }
+
+  .box {
+    color: black;
+    background-color: lightblue;
+    width: 300px;
+    margin-left:1700px;
+    opacity: 0.7;
+
+  }
+  
+  .left-col{
+
+    background-color: lightgrey;
+    width:33.33%;
+    float:left;
+    position: relative;
+    border:5px solid rgb(145, 144, 144);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: top left;
+  }
+
+   .center-col{
+    background-color: lightgrey;
+    width:33.33%;
+    float:left;
+    position: relative;
+    border:5px solid rgb(145, 144, 144);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: top left;
+   
+  }
+
+  .right-col{
+    background-color: lightgrey;
+    width:33.33%;
+    float:left;
+    position: relative;
+    border:5px solid rgb(145, 144, 144);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: top left;
+    
+  }
+
+.button1 {
+  background-color: yellow;
+} /* Yellow */
+
+.button2 {
+  background-color: whitesmoke;
+}
+ 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    text-align: left;
+    }
+  
